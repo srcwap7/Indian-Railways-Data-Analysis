@@ -449,7 +449,7 @@ elif section == "Some Statistical Analysis":
     st.title("🔍 Statistical Deep Dive")
     
     # Distribution Analysis
-    st.subheader("📊 Flight Delay Distribution Patterns")
+    st.subheader("📊 Delay Distribution")
     
     # First visualization
     st.image("delay_distribution.png")
